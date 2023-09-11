@@ -7,7 +7,7 @@ TheNextLeg Go Client is a Go library for interacting with TheNextLeg API. It all
 You can install TheNextLeg Go Client using `go get`:
 
 ```shell
-go get github.com/your-username/thenextleg-go
+go get github.com/nikoole/thenextleg-go
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ go get github.com/your-username/thenextleg-go
 To use the client, you'll need to import it and create a new client instance with your API authentication token:
 
 ```go
-import "github.com/your-username/thenextleg-go"
+import "github.com/nikoole/thenextleg-go"
 
 client := thenextleg.NewClient("your-auth-token")
 ```
