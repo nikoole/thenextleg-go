@@ -1,3 +1,6 @@
+# ❗ IMPORTANT UPDATE ❗
+TheNextLeg (TNL) service is closed forever. I suggest you use [userapi.ai](https://userapi.ai) - very stable and fast API with almost complete coverage of all Midjourney methods ([doc here](https://butternut-saffron-e5e.notion.site/Midjourney-userapi-ai-doc-en-119680339b0a47e2ba6ae467eca58142))
+
 # TheNextLeg Go Client
 
 TheNextLeg Go Client is a Go library for interacting with TheNextLeg API. It allows you to access various features provided by TheNextLeg, such as image processing, text analysis, and more.
